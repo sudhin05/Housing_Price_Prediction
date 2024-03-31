@@ -32,4 +32,5 @@ To use the model:
 4. Use the trained model to make predictions on new data.
 
 ## Results
+![Model Performance](lossfxnf.png)
 
