@@ -33,6 +33,6 @@ To use the model:
 
 ## Results
 ![Model Performance](lossfxnf.png)
-![Model Performance](scaaterplotf.png)
+![Model Performance2](scaatterplotf.png)
 
 
